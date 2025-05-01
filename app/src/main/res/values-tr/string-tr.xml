@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="baslik1">Tümü</string>
+    <string name="baslik2">Oyun</string>
+    <string name="baslik3">Canlı</string>
+</resources>
